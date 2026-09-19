@@ -20,21 +20,16 @@ I help build the **innovative projects of tomorrow** by providing cutting-edge d
 ### **Frontend**
 - React
 - React Native
-- Flutter
 - Vue.js
-- Next.js
-- Nuxt.js
 
 ### **Backend**
 - Django
-- Symfony
-- Laravel
 - Node.js
-- Ruby on Rails
+- Nest.JS
 
 ### **Ops & Cloud**
 - **AWS Expert**
-- **GCP Expert**
+- GCP
 - Docker
 - Kubernetes
 - Networking & Security
