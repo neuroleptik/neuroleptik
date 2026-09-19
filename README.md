@@ -1,6 +1,6 @@
 # Jean-Baptiste Brasselet
 
-## 🚀 Freelance Full Stack Developer | DevOps | AWS Expert | Trainer | Content Creator
+## 🚀 Freelance Full Stack Developer | DevOps | AWS Expert | Trainer
 
 I help build the **innovative projects of tomorrow** by providing cutting-edge development and cloud expertise.
 
